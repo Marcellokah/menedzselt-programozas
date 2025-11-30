@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ZeneApp.Common/ZeneApp.Common.csproj" />
+  <Project Path="ZeneApp.Web/ZeneApp.Web.csproj" />
+  <Project Path="ZeneApp.WinForms/ZeneApp.WinForms.csproj" />
+</Solution>
