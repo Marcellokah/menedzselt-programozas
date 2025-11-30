@@ -1,0 +1,10 @@
+CREATE TABLE IF NOT EXISTS "Zenek" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Zenek" PRIMARY KEY AUTOINCREMENT,
+    "Cim" TEXT NOT NULL,
+    "Eloado" TEXT NOT NULL,
+    "KiadasiEv" INTEGER NOT NULL,
+    "Hossz" INTEGER NOT NULL,
+    "Prioritas" INTEGER NOT NULL
+);
+
+CREATE UNIQUE INDEX "IX_Zenek_Cim" ON "Zenek" ("Cim");

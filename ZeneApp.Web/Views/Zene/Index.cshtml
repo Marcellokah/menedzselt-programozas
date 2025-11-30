@@ -1,0 +1,28 @@
+@model IEnumerable<ZeneApp.Common.Zene>
+
+<h2>Zene Lista</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Új zene hozzáadása</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.Cim)</th>
+            <th>@Html.DisplayNameFor(model => model.Eloado)</th>
+            <th>@Html.DisplayNameFor(model => model.KiadasiEv)</th>
+            <th>@Html.DisplayNameFor(model => model.Hossz) (mp)</th>
+            </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>@Html.DisplayFor(modelItem => item.Cim)</td>
+            <td>@Html.DisplayFor(modelItem => item.Eloado)</td>
+            <td>@Html.DisplayFor(modelItem => item.KiadasiEv)</td>
+            <td>@Html.DisplayFor(modelItem => item.Hossz)</td>
+        </tr>
+}
+    </tbody>
+</table>

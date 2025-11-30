@@ -1,0 +1,15 @@
+C:\Users\marce\Desktop\University\Programtervezo\menedzseltprog\menedzselt-programozas\ZeneApp.Common\bin\Debug\net10.0\ZeneApp.Common.deps.json
+C:\Users\marce\Desktop\University\Programtervezo\menedzseltprog\menedzselt-programozas\ZeneApp.Common\bin\Debug\net10.0\ZeneApp.Common.runtimeconfig.json
+C:\Users\marce\Desktop\University\Programtervezo\menedzseltprog\menedzselt-programozas\ZeneApp.Common\bin\Debug\net10.0\ZeneApp.Common.dll
+C:\Users\marce\Desktop\University\Programtervezo\menedzseltprog\menedzselt-programozas\ZeneApp.Common\bin\Debug\net10.0\ZeneApp.Common.pdb
+C:\Users\marce\Desktop\University\Programtervezo\menedzseltprog\menedzselt-programozas\ZeneApp.Common\obj\Debug\net10.0\ZeneApp.Common.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\University\Programtervezo\menedzseltprog\menedzselt-programozas\ZeneApp.Common\obj\Debug\net10.0\ZeneApp.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\University\Programtervezo\menedzseltprog\menedzselt-programozas\ZeneApp.Common\obj\Debug\net10.0\ZeneApp.Common.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\University\Programtervezo\menedzseltprog\menedzselt-programozas\ZeneApp.Common\obj\Debug\net10.0\ZeneApp.Common.AssemblyInfo.cs
+C:\Users\marce\Desktop\University\Programtervezo\menedzseltprog\menedzselt-programozas\ZeneApp.Common\obj\Debug\net10.0\ZeneApp.Common.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\University\Programtervezo\menedzseltprog\menedzselt-programozas\ZeneApp.Common\obj\Debug\net10.0\ZeneApp.Common.sourcelink.json
+C:\Users\marce\Desktop\University\Programtervezo\menedzseltprog\menedzselt-programozas\ZeneApp.Common\obj\Debug\net10.0\ZeneApp.Common.dll
+C:\Users\marce\Desktop\University\Programtervezo\menedzseltprog\menedzselt-programozas\ZeneApp.Common\obj\Debug\net10.0\refint\ZeneApp.Common.dll
+C:\Users\marce\Desktop\University\Programtervezo\menedzseltprog\menedzselt-programozas\ZeneApp.Common\obj\Debug\net10.0\ZeneApp.Common.pdb
+C:\Users\marce\Desktop\University\Programtervezo\menedzseltprog\menedzselt-programozas\ZeneApp.Common\obj\Debug\net10.0\ZeneApp.Common.genruntimeconfig.cache
+C:\Users\marce\Desktop\University\Programtervezo\menedzseltprog\menedzselt-programozas\ZeneApp.Common\obj\Debug\net10.0\ref\ZeneApp.Common.dll

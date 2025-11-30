@@ -1,0 +1,36 @@
+@model ZeneApp.Common.Zene
+
+<h2>Új Zene Hozzáadása</h2>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="Cim" class="control-label"></label>
+        <input asp-for="Cim" class="form-control" />
+        <span asp-validation-for="Cim" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Eloado" class="control-label"></label>
+        <input asp-for="Eloado" class="form-control" />
+        <span asp-validation-for="Eloado" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="KiadasiEv" class="control-label"></label>
+        <input asp-for="KiadasiEv" class="form-control" />
+        <span asp-validation-for="KiadasiEv" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Hossz" class="control-label"></label>
+        <input asp-for="Hossz" class="form-control" />
+        <span asp-validation-for="Hossz" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Prioritas" class="control-label"></label>
+        <input asp-for="Prioritas" class="form-control" />
+        <span asp-validation-for="Prioritas" class="text-danger"></span>
+    </div>
+    <br/>
+    <div class="form-group">
+        <input type="submit" value="Létrehozás" class="btn btn-primary" />
+        <a asp-action="Index" class="btn btn-secondary">Vissza</a>
+    </div>
+</form>
