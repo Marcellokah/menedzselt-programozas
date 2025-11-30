@@ -24,7 +24,7 @@ namespace ZeneApp.Common
         [Range(1, 10, ErrorMessage = "A prioritás 1 és 10 között legyen.")]
         public int Prioritas { get; set; }
 
-        // Formázott megjelenítéshez
+        // Formázott megjelenítés
         public string HosszFormazva => $"{Hossz / 60}:{(Hossz % 60):D2}";
     }
 }
